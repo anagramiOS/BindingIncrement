@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UseIncrement\AppDelegate.cs">
+    <Files>
+      <File FileName="BindingIncrement\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="UseIncrement\AppDelegate.cs" Line="41" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

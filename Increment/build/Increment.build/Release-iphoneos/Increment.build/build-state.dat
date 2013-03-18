@@ -1,0 +1,161 @@
+TIncrement
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth Increment/Increment-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m" normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a" normal armv7s
+cPBXCp Increment/Increment.h build/Release-iphoneos/include/Increment/Increment.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4C9AB000000000062AD10
+t1358219691
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4C9AB00000000000015F7
+t1358219691
+s5623
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment-Prefix.pch
+c000000005146DE11000000000000009F
+t1363598865
+s159
+i<Foundation/Foundation.h>
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.h
+c000000005146DF3300000000000000E7
+t1363599155
+s231
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m
+c000000005146DF2E00000000000000F2
+t1363599150
+s242
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.LinkFileList
+c000000005146EE88000000000000009E
+t1363603080
+s158
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.o
+t2
+s0
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.LinkFileList
+c000000005146EE89000000000000009F
+t1363603081
+s159
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o
+t2
+s0
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include/Increment/Increment.h
+t1363603081
+s231
+
+N/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a
+t2
+s0
+
+N/var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd2c6a50926f7b641^9013aa0926f7b641^---0#1#0#--18"Check dependencies36"D8685ED3-70AE-4DE6-8AB0-16C62518057E-
+
+CCompileC build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385295881.169425
+e385295881.193706
+r1
+xCompileC
+xbuild/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.o
+x/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.me3a92b0926f7b641^2096310926f7b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/elisabetta.colicchia/Dropbox/grafica%20aviva/MyBinding/Increment/Increment/Increment.m0000000000000000^3775"CompileC build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.o Increment/Increment.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-generated-files.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-own-target-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-all-target-headers.hmap" -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-project-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources/armv7" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources" "-F/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" -include /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch -MMD -MT dependencies -MF "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.d" --serialize-diagnostics "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.dia" -c "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m" -o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.o"36"82581D6A-A573-4148-BB16-361D040F8DD6-
+
+CCompileC build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m" normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385295881.922757
+e385295881.938600
+r1
+xCompileC
+xbuild/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o
+x/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.mff5cec0926f7b641^8c48f00926f7b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/elisabetta.colicchia/Dropbox/grafica%20aviva/MyBinding/Increment/Increment/Increment.m0000000000000000^3782"CompileC build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o Increment/Increment.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-generated-files.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-own-target-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-all-target-headers.hmap" -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-project-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources/armv7s" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources" "-F/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" -include /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch -MMD -MT dependencies -MF "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.d" --serialize-diagnostics "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.dia" -c "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.m" -o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.o"36"85772232-3905-4B3B-AB30-75622F19034B-
+
+CLibtool "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a" normal armv7
+s385295881.201225
+e385295881.206325
+r1
+xLibtool
+x/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Libtool build/Release-iphoneos/libIncrement.a normal armv7d998330926f7b641^4ad3340926f7b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1053"Libtool build/Release-iphoneos/libIncrement.a normal armv7    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk "-L/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" -filelist "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7/Increment.LinkFileList" -ObjC -framework Foundation -o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a"36"D927CDDB-56CA-4A18-913C-1007FB3B5E33-
+
+CLibtool "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a" normal armv7s
+s385295881.945352
+e385295881.949931
+r1
+xLibtool
+x/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Libtool build/Release-iphoneos/libIncrement.a normal armv7s8f17f20926f7b641^b630f30926f7b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1056"Libtool build/Release-iphoneos/libIncrement.a normal armv7s    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk "-L/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" -filelist "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Objects-normal/armv7s/Increment.LinkFileList" -ObjC -framework Foundation -o "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/libIncrement.a"36"687ABC31-2CB5-4334-BDE3-3FB2C509B2A9-
+
+CPBXCp Increment/Increment.h build/Release-iphoneos/include/Increment/Increment.h
+s385295881.215616
+e385295881.219601
+r1
+xPBXCp
+xIncrement/Increment.h
+xbuild/Release-iphoneos/include/Increment/Increment.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Release-iphoneos/include/Increment/Increment.hdd61370926f7b641^b038380926f7b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/elisabetta.colicchia/Dropbox/grafica%20aviva/MyBinding/Increment/build/Release-iphoneos/include/Increment/Increment.h000000000080d041^821"PBXCp Increment/Increment.h build/Release-iphoneos/include/Increment/Increment.h    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment.h" "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include/Increment"36"D1246D67-9B0D-4030-9336-9B77E3BF67F1-
+
+CProcessPCH /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.pth Increment/Increment-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385295880.932540
+e385295881.161444
+r1
+xProcessPCH
+x/var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.pth
+xIncrement/Increment-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Increment/Increment-Prefix.pch19ffee0826f7b641^2657290926f7b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/elisabetta.colicchia/Dropbox/grafica%20aviva/MyBinding/Increment/Increment/Increment-Prefix.pch0000000000000000^3720"ProcessPCH /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.pth Increment/Increment-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-generated-files.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-own-target-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-all-target-headers.hmap" -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-project-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources/armv7" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources" "-F/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" --serialize-diagnostics /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.dia -c "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment-Prefix.pch" -o /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-cvpprlcxcdntogemozgnuopjjyyz/Increment-Prefix.pch.d36"4EEBBDE0-3A77-4AF2-B9FD-FA5D39DA5265-
+
+CProcessPCH /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth Increment/Increment-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385295881.667523
+e385295881.915994
+r1
+xProcessPCH
+x/var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth
+xIncrement/Increment-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Increment/Increment-Prefix.pch2907ab0926f7b641^527eea0926f7b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/elisabetta.colicchia/Dropbox/grafica%20aviva/MyBinding/Increment/Increment/Increment-Prefix.pch0000000000000000^3723"ProcessPCH /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth Increment/Increment-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-generated-files.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-own-target-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-all-target-headers.hmap" -iquote "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/Increment-project-headers.hmap" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources/armv7s" "-I/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Increment.build/Release-iphoneos/Increment.build/DerivedSources" "-F/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/build/Release-iphoneos" --serialize-diagnostics /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.dia -c "/Users/elisabetta.colicchia/Dropbox/grafica aviva/MyBinding/Increment/Increment/Increment-Prefix.pch" -o /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/dv/5d3wdblj4p31mzmwtk4_t1f00000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Increment-Prefix-fqtpyotfdnllueclivmsitzcekst/Increment-Prefix.pch.d36"AF26B834-E880-4590-92A2-F09CC95F1E1C-
+
