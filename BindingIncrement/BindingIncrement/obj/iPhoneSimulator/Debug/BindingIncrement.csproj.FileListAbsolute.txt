@@ -3,3 +3,8 @@ C:\Users\fabrizio.a.zizzari\Dropbox\Grafica Aviva\MyBinding\BindingIncrement\Bin
 C:\Users\fabrizio.a.zizzari\Dropbox\Grafica Aviva\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.csprojResolveAssemblyReference.cache
 C:\Users\fabrizio.a.zizzari\Dropbox\Grafica Aviva\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.dll
 C:\Users\fabrizio.a.zizzari\Dropbox\Grafica Aviva\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.pdb
+C:\Users\fabrizio.a.zizzari\MyBinding\BindingIncrement\BindingIncrement\bin\iPhoneSimulator\Debug\BindingIncrement.dll
+C:\Users\fabrizio.a.zizzari\MyBinding\BindingIncrement\BindingIncrement\bin\iPhoneSimulator\Debug\BindingIncrement.pdb
+C:\Users\fabrizio.a.zizzari\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.csprojResolveAssemblyReference.cache
+C:\Users\fabrizio.a.zizzari\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.dll
+C:\Users\fabrizio.a.zizzari\MyBinding\BindingIncrement\BindingIncrement\obj\iPhoneSimulator\Debug\BindingIncrement.pdb
